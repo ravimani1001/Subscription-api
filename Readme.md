@@ -169,6 +169,20 @@ Redis and PostgreSQL should be live on Railway or your local machine.
 
 ---
 
+## 📫 Postman Collection
+
+You can use the Postman collection below to test all API routes, including:
+
+- Register/Login
+- Plan creation and listing
+- Subscription creation, update, cancellation
+- Cron-based expiry
+- Redis Pub/Sub flow
+
+👉 [Download Postman Collection](docs/Subscription-api.postman_collection.json)
+
+---
+
 ## ✅ Final Notes
 
 * Cron jobs and Redis Pub/Sub run in background on `server.js` startup
