@@ -2,6 +2,16 @@
 
 A production-style backend microservice for managing user subscriptions to SaaS plans. Built with **Node.js**, **Express**, **PostgreSQL**, **Redis (Pub/Sub)**, **JWT**, and **Nodemailer**, this project includes both core functionality and advanced microservices features like asynchronous email notifications and cron-based subscription expiry.
 
+
+## Live API 
+This backend is live on Railway. Test it using Postman or Client.
+You can find the Postman Collection here 
+👉 [Download Postman Collection](docs/Subscription-api.postman_collection.json)
+
+
+[https://subscription-api-production-ad53.up.railway.app/](https://subscription-api-production-ad53.up.railway.app/)
+
+
 ---
 
 ## 🚀 Features
